@@ -1,0 +1,7 @@
+cd
+pwd
+ls
+mkdir
+rm
+cat
+history
